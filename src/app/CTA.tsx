@@ -8,14 +8,16 @@ const CTA = () => {
         <p className="text-lg mb-6">Unlock your full potential with Dahih.</p>
         <div className="flex mt-4 flex-wrap justify-around w-3/5">
           <a
-            href="https://github.com/ibrahimhabibeg/Dahih-Al-Dofaa/releases/latest/download/dahih-al-dofaa.Setup.exe"
+            href="https://drive.google.com/uc?export=download&id=1u4l92hS6wfII9h6o-S-C_jUvLUIWorWq"
             className="bg-orange-600 hover:bg-orange-800 text-white font-bold py-2 px-4 rounded transition my-2 w-56"
+            target="_blank"
           >
             Download for Windows
           </a>
           <a
-            href="https://github.com/ibrahimhabibeg/Dahih-Al-Dofaa/releases/latest/download/dahih-al-dofaa_amd64.deb"
+            href="https://drive.google.com/uc?export=download&id=1WYKuV-f9TxeVzc9kOWhHtBQkSTmQCxSv"
             className="bg-orange-600 hover:bg-orange-800 text-white font-bold py-2 px-4 rounded transition my-2 w-56"
+            target="_blank"
           >
             Download for Ubuntu
           </a>
