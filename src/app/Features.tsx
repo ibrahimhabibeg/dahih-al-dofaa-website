@@ -9,7 +9,7 @@ const Features: React.FC = () => {
         <div className="flex flex-row justify-around flex-wrap">
           <div className="flex flex-col items-center my-8 max-w-96">
             <Image
-              src="/kindle.svg"
+              src="/dahih-al-dofaa-website/kindle.svg"
               alt="Feature 1 icon"
               width={80}
               height={80}
@@ -22,7 +22,7 @@ const Features: React.FC = () => {
           </div>
           <div className="flex flex-col items-center my-8 max-w-96">
             <Image
-              src="/privacy.svg"
+              src="/dahih-al-dofaa-website/privacy.svg"
               alt="Feature 2 icon"
               width={80}
               height={80}
@@ -36,7 +36,7 @@ const Features: React.FC = () => {
           </div>
           <div className="flex flex-col items-center my-8 max-w-96">
             <Image
-              src="/diploma.svg"
+              src="/dahih-al-dofaa-website/diploma.svg"
               alt="Feature 3 icon"
               width={80}
               height={80}
@@ -51,7 +51,7 @@ const Features: React.FC = () => {
           </div>
           <div className="flex flex-col items-center my-8 max-w-96">
             <Image
-              src="/book.svg"
+              src="/dahih-al-dofaa-website/book.svg"
               alt="Feature 3 icon"
               width={80}
               height={80}
@@ -64,7 +64,7 @@ const Features: React.FC = () => {
           </div>
           <div className="flex flex-col items-center my-8 max-w-96">
             <Image
-              src="/cap.svg"
+              src="/dahih-al-dofaa-website/cap.svg"
               alt="Feature 3 icon"
               width={80}
               height={80}

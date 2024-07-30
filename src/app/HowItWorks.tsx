@@ -7,7 +7,7 @@ const HowItWorks = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="flex flex-col items-center max-w-96">
             <Image
-              src="/notebook.svg"
+              src="/dahih-al-dofaa-website/notebook.svg"
               alt="Step 1 icon"
               width={80}
               height={80}
@@ -20,7 +20,7 @@ const HowItWorks = () => {
           </div>
           <div className="flex flex-col items-center max-w-96">
             <Image
-              src="/studying.svg"
+              src="/dahih-al-dofaa-website/studying.svg"
               alt="Step 2 icon"
               width={80}
               height={80}
@@ -33,7 +33,7 @@ const HowItWorks = () => {
           </div>
           <div className="flex flex-col items-center max-w-96">
             <Image
-              src="/answer.svg"
+              src="/dahih-al-dofaa-website/answer.svg"
               alt="Step 3 icon"
               width={80}
               height={80}

@@ -5,7 +5,7 @@ const Hero: React.FC = () => {
   return (
     <section className="bg-slate-900 text-slate-100 py-16">
       <Image
-        src="/logo.svg"
+        src="/dahih-al-dofaa-website/logo.svg"
         alt="hero"
         className="mx-auto"
         width={200}
