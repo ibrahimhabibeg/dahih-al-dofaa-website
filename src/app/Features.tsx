@@ -3,8 +3,8 @@ import Image from "next/image";
 
 const Features: React.FC = () => {
   return (
-    <section id="features" className="py-20 bg-slate-900 text-slate-100">
-      <div className="container mx-auto">
+    <section id="features" className="py-16 bg-slate-900 text-slate-100">
+      <div className="container mx-auto w-4/5 text-center">
         <h2 className="text-3xl font-bold text-center mb-8">Key Features</h2>
         <div className="flex flex-row justify-around flex-wrap">
           <div className="flex flex-col items-center my-8 max-w-96">
